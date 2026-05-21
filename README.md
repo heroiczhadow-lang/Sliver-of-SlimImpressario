@@ -1,4 +1,15 @@
-This is my personal portfolio website. It’s still a work in progress — but I’m continuously improving it.  
-If you’d like to connect or collaborate, feel free to reach out!
+# Personal Portfolio Website
 
-https://heroiczhadow-lang.github.io/Sliver-of-SlimImpressario/
+A clean, responsive portfolio website built to showcase my development skills and featured projects. 
+
+🔗 **Live Demo:** [Insert Your github.io Link Here]
+
+### 🛠️ Tech Stack
+* **HTML5:** Semantic structure and content.
+* **CSS3:** Modern layouts and custom styling.
+* **JavaScript:** Interactive components and logic.
+
+### ✨ Key Features
+* Fully responsive layout for mobile and desktop views.
+* Interactive user interface elements.
+* Clean, semantic, and production-ready code.
